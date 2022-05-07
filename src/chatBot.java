@@ -5,7 +5,7 @@ public class chatBot {
         final static Scanner scanner = new Scanner(System.in);  // final tut
 
         public static void main(String[] args) {      //main zdec
-            greet("Aid", "2018");
+            greet("Anchous", "2022");
             remindName();
             guessAge();
             count();
